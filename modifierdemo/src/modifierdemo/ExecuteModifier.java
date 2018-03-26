@@ -11,8 +11,7 @@ public class ExecuteModifier {
         obj.pro_var = 40000;
 		obj.showData();
 		SubClass subObj = new SubClass(500,600,700,900);
-		subObj.showData();
-		subObj.displaySubData();
+		
 	}
 
 }
